@@ -1,0 +1,68 @@
+{
+  "flights": [
+    {
+      "id": "afdd",
+      "vuelo": "SA-123",
+      "tipoVuelo": "Nacional",
+      "salida": "2024-04-04",
+      "llegada": "2024-04-06",
+      "horaSalida": "09:53",
+      "horaLlegada": "01:51",
+      "origen": "Ciudad de Mexico",
+      "destino": "Cali",
+      "aeronave": "Boeing-123",
+      "pasajeros": 100,
+      "tiquete": 1000,
+      "impuestos": 1,
+      "sobretasa": 2
+    },
+    {
+      "id": "48a8",
+      "vuelo": "SA-123",
+      "tipoVuelo": "Internacional",
+      "salida": "2024-04-19",
+      "llegada": "2024-04-27",
+      "horaSalida": "10:03",
+      "horaLlegada": "00:00",
+      "origen": "Bogota",
+      "destino": "Bogota",
+      "aeronave": "Boeing-123",
+      "pasajeros": 100,
+      "tiquete": 1000,
+      "impuestos": 1,
+      "sobretasa": 2
+    },
+    {
+      "id": "d0bb",
+      "vuelo": "SA-123",
+      "tipoVuelo": "Internacional",
+      "salida": "2024-04-19",
+      "llegada": "2024-04-27",
+      "horaSalida": "10:03",
+      "horaLlegada": "00:00",
+      "origen": "Bogota",
+      "destino": "Cali",
+      "aeronave": "Boeing-123",
+      "pasajeros": 100,
+      "tiquete": 1000,
+      "impuestos": 1,
+      "sobretasa": 2
+    },
+    {
+      "id": "7ed3",
+      "vuelo": "SA-123",
+      "tipoVuelo": "Internacional",
+      "salida": "2024-04-19",
+      "llegada": "2024-04-27",
+      "horaSalida": "10:03",
+      "horaLlegada": "00:00",
+      "origen": "Dubai",
+      "destino": "Cali",
+      "aeronave": "Boeing-123",
+      "pasajeros": 100,
+      "tiquete": 1000,
+      "impuestos": 1,
+      "sobretasa": 2
+    }
+  ]
+}
