@@ -1,9 +1,8 @@
-import React from 'react';
-import GestionVuelosPage from './gestion_vuelosB/page';
-
+import React from "react"
+import GestionVuelosPage from "./gestion_vuelosB/page"
 
 const Page: React.FC = () => {
-  return <GestionVuelosPage />;
-};
+  return <GestionVuelosPage />
+}
 
-export default Page;
+export default Page
