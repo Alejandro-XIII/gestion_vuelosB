@@ -43,7 +43,6 @@ jobs:
     name: SonarCloud
     needs: coverage
     runs-on: ubuntu-latest
-    if: github.ref == 'refs/heads/modulo_pagosB'
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
