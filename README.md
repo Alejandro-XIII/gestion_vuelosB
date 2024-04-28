@@ -2,6 +2,12 @@
 
 # Next.js Enterprise Boilerplate </br>  [![GitHub Actions Workflow Status][check-workflow-badge]][check-workflow-badge-link] [![GitHub License][github-license-badge]][github-license-badge-link] [![GitHub contributors][github-contributors-badge]][github-contributors-badge-link] [![Discord][discord-badge]][discord-badge-link] [![Blazity][made-by-blazity-badge]][made-by-blazity-badge-link]
 
+# SonarCloud
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Alejandro-XIII_gestion_vuelosB&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Alejandro-XIII_gestion_vuelosB)
+
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=Alejandro-XIII_gestion_vuelosB&metric=coverage)](https://sonarcloud.io/summary/new_code?id=Alejandro-XIII_gestion_vuelosB)
+
+
 Welcome to the _Next.js Enterprise Boilerplate_, an open-source template for enterprise projects! It's loaded with features that'll help you build a high-performance, maintainable, and enjoyable app. We've done all the heavy lifting for you, so sit back, relax, and get ready to conquer the world with your incredible app! 🌍
 
 > [!NOTE]
