@@ -144,7 +144,7 @@ const Form = () => {
 
         <div className="pt-5">
           <label className="block">
-            <input />
+            <input/>
             Tipo de vuelo:
           </label>
           <div className="pt-2">
@@ -160,7 +160,7 @@ const Form = () => {
               Nacional
             </label>
 
-            <label className="">
+            <label className="">{' '}
               <input
                 type="radio"
                 name="tipo"
@@ -168,7 +168,7 @@ const Form = () => {
                 className="mr-2"
                 checked={tipoVuelo === "Internacional"}
                 onChange={handleOptionChange}
-              />
+              />{' '}
               Internacional
             </label>
           </div>
