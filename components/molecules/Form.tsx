@@ -20,7 +20,7 @@ const Form = () => {
   const [error, setError] = useState<boolean>(false)
 
   const handleSubmit = (e: React.FormEvent<HTMLFormElement>) => {
-    e.preventDefault() // Prevents the form from submitting and refreshing page
+    e.preventDefault() // Prevents the form from submitting and refreshing the page
     const formData: { [key: string]: string } = {}
     const elements = e.currentTarget.elements
 
